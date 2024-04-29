@@ -16,5 +16,5 @@ un formulaire pour s'inscrire (champs : username | password)
 une page où l'on voit l'ensemble des points regroupé sur une map `leaflet` et où on as la capacité d'accéder à la page détaillée du point en question
 
 # notes
-- les instructions précédentes n'ont pas pour but d'être réstictif (bien que vous puissiez les suivre à la lettre si vous le souhaitez) mais plus des idées de directions pour coder le site, vous être libre de coder les fonctionnalitées que vous souhaitez, de ne pas en faire certaines si vous le souhaitez ou d'en faire des que je n'ai pas mentionnées
+- les instructions précédentes n'ont pas pour but d'être réstrictif (bien que vous puissiez les suivre à la lettre si vous le souhaitez) mais plus des idées de directions pour coder le site, vous être libre de coder les fonctionnalitées que vous souhaitez, de ne pas en faire certaines si vous le souhaitez ou d'en faire des que je n'ai pas mentionnées
 - au niveau de l'apparence, vous êtes libre de faire ce que vous souhaitez, vous pouvez utilisez css ou bootstrap comme bon vous semble (seulement l'un, les deux de manière interchangeable ou même de recoder les même pages en utilisant l'un puis l'autre)
